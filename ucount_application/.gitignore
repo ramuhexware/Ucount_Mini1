@@ -1,0 +1,26 @@
+# Target & Build directories
+target/
+**/target/
+build/
+**/build/
+dist/
+**/dist/
+node_modules/
+**/node_modules/
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Environment & Logs
+*.log
+.env
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
